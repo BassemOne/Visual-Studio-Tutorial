@@ -1,2 +1,6 @@
 This is a file that was created from Github
+<<<<<<< HEAD
 Edited from local
+=======
+Eited from Github
+>>>>>>> a3b5f1cfb0b85eb403c489751ebcfd7fa59ed4ed
